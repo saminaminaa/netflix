@@ -4,6 +4,8 @@ import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 /**
+ * lien cours :
+ * https://formation.cloud-gfi-nord.fr/2022/CI-Jenkins-Site.html
  * Factory permettant de générer du contenu html
  */
 public class HtmlFactory {
